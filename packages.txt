@@ -1,0 +1,2 @@
+libraqm0
+libfribidi0
